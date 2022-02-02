@@ -1,5 +1,6 @@
 # NodeJS + antd + express + multer + mysql + nodemon
->
+>Use antd-img-crop to crop image before uploading.
+
 ### Installing
 
 1. Clone The Project
