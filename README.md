@@ -12,4 +12,4 @@ cd crop-image-before-uploading
 npm install
 ```
 ## Example
-![](https://github.com/SharpTH/nodejs-upload-images/blob/main/images/icon/2.gif)
+![](https://github.com/SharpTH/crop-image-before-uploading/blob/main/src/images/crop-image-before-uploading.gif)
